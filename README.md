@@ -2,8 +2,7 @@
 An Easy attempt to Image Captioning with Inception_V3 as backbone. Pytorch based, no attention used(May update latter)
 - ![test_example](https://github.com/Mountchicken/Image-Captioning-pytorch/blob/main/text_examples/dog.jpg)
 - Predicted: <SOS> a brown dog is running on the grass . <EOS>
-- <img src="https://github.com/Mountchicken/Image-Captioning-pytorch/blob/main/text_examples/happy.jpg" width="216" height="288" alt="😀"/><br/>
-- Predicted: <SOS> a woman in a red shirt and a man in a white shirt smile for the camera . <EOS>
+
 ## 项目结构
 ### 文件
 
